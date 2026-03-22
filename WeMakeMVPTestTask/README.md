@@ -13,7 +13,6 @@ set    OPENAI_API_KEY=sk-...          # Windows CMD
 $env:OPENAI_API_KEY = "sk-..."        # PowerShell
 
 # 2. Run
-cd DebtChat
 dotnet run
 ```
 
